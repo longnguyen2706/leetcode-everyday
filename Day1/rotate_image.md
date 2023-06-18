@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Description](#description)
+- [Note](#note)
+- [Solution](#solution)
+  - [Solution 1: in place replace](#solution-1-in-place-replace)
+  - [python](#python)
+  - [java](#java)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Description
 [Rotate image](https://leetcode.com/submissions/detail/969994326/)
 

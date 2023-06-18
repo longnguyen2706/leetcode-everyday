@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Description](#description)
+- [Note](#note)
+- [Solution](#solution)
+  - [Solution 1: in place replace](#solution-1-in-place-replace)
+  - [S1](#s1)
+  - [S2 (optimized)](#s2-optimized)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Description
 [Maximum subarray   ](https://leetcode.com/problems/maximum-subarray/)
 
